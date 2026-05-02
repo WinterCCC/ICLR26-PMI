@@ -1,4 +1,4 @@
-# Free Lunch for Stabilizing Rectified Flow Inversion
+# [ICLR2026] Free Lunch for Stabilizing Rectified Flow Inversion
 
 Official implementation of **"Free Lunch for Stabilizing Rectified Flow Inversion"** (ICLR 2026).
 Chenru Wang, Beier Zhu, Chi Zhang. AGI Lab, Westlake University.
