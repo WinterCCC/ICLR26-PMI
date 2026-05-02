@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision
+numpy
+einops
+Pillow
+transformers>=4.40
+safetensors
+huggingface_hub>=0.23
+sentencepiece
+invisible-watermark
+requests
